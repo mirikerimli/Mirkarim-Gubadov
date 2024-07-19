@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/mirkerim-gubadov-23983927a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -25,7 +25,7 @@ I am a Full Stack Developer student from Azerbaijan <img src="https://media.giph
 
 - :zap: In my free time, I write code and practice in my spare time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-  -blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/)
+- :mailbox:How to reach me: https://www.linkedin.com/in/mirkerim-gubadov-23983927a/
 
 ---
 
